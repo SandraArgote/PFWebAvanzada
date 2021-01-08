@@ -1,0 +1,60 @@
+/* 
+    Author     : Sandra Paulina Argote Romo
+*/
+
+//General
+html, body{
+    margin: 0;
+}
+
+body{
+    //'Signika', sans-serif;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+a{
+    text-decoration: none;
+    color: #369E75;
+    font-size: 2rem;
+}
+
+a:hover{
+    color:#014731;
+}
+
+input{
+    width: 13rem;
+    border-radius: 5px;
+    border: 1px solid #EDFFD3;
+}
+
+/* Tema del color */
+.Naranja1 { color: #FFAA31; }
+.Naranja2{ color: #EFA53B; }
+.Naranja3 { color: #FDB550; }
+.Naranja4{ color: #EDAE56; }
+.Naranja5{ color: #DEA85C; }
+
+//Letras 
+.font-300{
+    font-weight: 300;
+}
+
+.font-500{
+    font-weight: 500;
+}
+
+.font-700{
+    font-weight: 700;
+}
+
+//Formulaio
+form{
+    background-color: rgba(255, 255, 255, 0.7);
+    border-radius: 5px;
+    padding: 2%;
+    margin: auto;
+    margin-top: 5rem;
+    font-size: 2rem;
+    box-shadow: 2px 2px 10px #666;
+}
